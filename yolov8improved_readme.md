@@ -1,4 +1,4 @@
-# YOLOv8 Lung Cancer Detection Modification
+# YOLOv8 Modification
 
 ## Overview
 This project is a modified version of [YOLOv8](https://github.com/ultralytics/ultralytics), designed for automated diagnosis of lung cancer from CT scans.  
