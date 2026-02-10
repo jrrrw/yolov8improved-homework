@@ -64,7 +64,7 @@ your_project/
 
 ## References
 - YOLOv8: [Ultralytics](https://github.com/ultralytics/ultralytics)  
-- Lung Cancer Detection Research: *"An Automated Diagnosis Method for Lung Cancer Target Detection and Subtype Classification-Based CT Scans"*
+- Lung Cancer Detection Research: *"An Automated Diagnosis Method for Lung Cancer Target Detection and Subtype Classification-Based CT Scans"* https://doi.org/10.3390/bioengineering11080767
 
 ---
 
